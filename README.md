@@ -20,11 +20,6 @@ Welcome to my portfolio repository! This project contains a simple two-page webs
 
 ## Getting Started
 
-To run this portfolio website locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+To run this portfolio website locally, follow these steps
 
 Thank you for visiting my portfolio website!
